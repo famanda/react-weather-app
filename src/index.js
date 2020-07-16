@@ -11,9 +11,9 @@ function App() {
       <Weather />
       <small>
         {" "}
-        <a href="https://github.com/famanda/weather-app" target="_blank">
+        <span href="https://github.com/famanda/weather-app" target="_blank">
           Open-source code
-        </a>
+        </span>
         <br />
         Felicia Amanda
       </small>
